@@ -1,0 +1,6 @@
+{
+  "name": "AutoRepuestos Pro",
+  "description": "Catálogo mayorista y tienda online de repuestos y accesorios automotrices para talleres mecánicos, con acceso seguro por código y gestión integral de inventarios, precios y pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
